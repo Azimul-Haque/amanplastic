@@ -1,6 +1,6 @@
 @extends('layouts.index')
 @section('title')
-    CVCS | Contact Us
+    Aman Plastic Industries | Contact Us
 @endsection
 
 @section('css')

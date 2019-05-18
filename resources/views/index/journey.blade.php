@@ -1,6 +1,6 @@
 @extends('layouts.index')
 @section('title')
-    CVCS | Journey of DUIITAA
+    Aman Plastic Industries | Journey
 @endsection
 
 @section('css')

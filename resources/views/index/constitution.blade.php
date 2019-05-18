@@ -1,6 +1,6 @@
 @extends('layouts.index')
 @section('title')
-    CVCS | Constitution
+    Aman Plastic Industries | Constitution
 @endsection
 
 @section('css')

@@ -1,6 +1,6 @@
 @extends('layouts.index')
 @section('title')
-    CVCS | বর্তমান কমিটি
+    Aman Plastic Industries | Current Committee
 @endsection
 
 @section('css')

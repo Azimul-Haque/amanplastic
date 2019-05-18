@@ -1,6 +1,6 @@
 @extends('layouts.index')
 @section('title')
-    CVCS | Event
+    Aman Plastic Industries | Event
 @endsection
 
 @section('css')

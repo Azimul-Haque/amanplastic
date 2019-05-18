@@ -1,6 +1,6 @@
 @extends('layouts.index')
 @section('title')
-    CVCS | আমাদের সম্পর্কে
+    Aman Plastic Industries | About
 @endsection
 
 @section('css')

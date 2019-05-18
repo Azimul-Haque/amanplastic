@@ -1,6 +1,6 @@
 @extends('layouts.index')
 @section('title')
-    CVCS | মিশন
+    Aman Plastic Industries | Mission
 @endsection
 
 @section('css')

@@ -1,6 +1,6 @@
 @extends('layouts.index')
 @section('title')
-    CVCS | Members
+    Aman Plastic Industries | Members
 @endsection
 
 @section('css')

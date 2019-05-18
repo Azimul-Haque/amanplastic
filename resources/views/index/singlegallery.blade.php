@@ -1,6 +1,6 @@
 @extends('layouts.index')
 @section('title')
-    CVCS | Gallery | {{ $album->name }}
+    Aman Plastic Industries | Gallery | {{ $album->name }}
 @endsection
 
 @section('css')

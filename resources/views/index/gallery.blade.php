@@ -1,6 +1,6 @@
 @extends('layouts.index')
 @section('title')
-    CVCS | Gallery
+    Aman Plastic Industries | Gallery
 @endsection
 
 @section('css')

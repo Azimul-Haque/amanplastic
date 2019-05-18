@@ -1,6 +1,6 @@
 @extends('layouts.index')
 @section('title')
-    CVCS | {{ Auth::user()->name }}
+    Aman Plastic Industries | {{ Auth::user()->name }}
 @endsection
 
 @section('css')
