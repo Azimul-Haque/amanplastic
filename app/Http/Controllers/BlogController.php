@@ -19,7 +19,6 @@ class BlogController extends Controller {
     public function __construct()
     {
         parent::__construct();
-        
         $this->middleware('auth')->except('index', 'getBloggerProfile', 'getBlogPost', 'checkLikeAPI', 'getCategoryWise', 'getMonthWise');
     }
 
@@ -85,7 +84,7 @@ class BlogController extends Controller {
         }
 
         $blog->save();
-        //redirect
+        
         return redirect()->route('index.profile', Auth::user()->unique_key);
     }
 
